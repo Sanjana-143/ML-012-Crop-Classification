@@ -9,7 +9,7 @@
 **Problem Type:** Multi-Class Classification
 **Programming Language:** Python
 **Development Environment:** Jupyter Notebook
-**Developer:** Rajan Sharma
+**Developer:** Sanjana Sharma
 **University:** Invertis University
 **Course:** BCA Artificial Intelligence
 
@@ -760,7 +760,7 @@ The project provides practical experience with Python, data analysis, visualizat
 
 **Project:** ML-012 – Crop Type Classification from Basic Soil Data
 
-**Developer:** Rajan Sharma
+**Developer:** Sanjana Sharma
 
 **Academic Program:** BCA Artificial Intelligence
 
